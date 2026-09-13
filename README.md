@@ -65,6 +65,33 @@ When an answer is selected, the answer buttons become disabled and the correct a
 
 `Card.tsx` uses Vite's `import.meta.glob` to resolve the images in `src/api/question_images` as bundled assets.
 
+## Multilingual roadmap
+
+The long-term goal is to provide the learner-driver test in all eleven official South African languages. English is currently the source language; the next ten language editions are:
+
+- Afrikaans
+- isiNdebele
+- isiXhosa
+- isiZulu
+- Sesotho
+- Sesotho sa Leboa (Sepedi)
+- Setswana
+- siSwati
+- Tshivenda
+- Xitsonga
+
+Planned implementation phases:
+
+1. **Language-ready data model**: separate translatable question content from stable question IDs, answer IDs, image references, and correctness metadata.
+2. **Localized question files**: add one validated JSON dataset per language while keeping the same schema as the English source.
+3. **Language selection**: add a language selector before the name-entry screen and persist the selected language with the quiz session.
+4. **Localized interface text**: translate navigation, timer labels, feedback, score messages, name-entry text, and results messaging.
+5. **Content review**: have each translation reviewed by qualified native speakers familiar with South African road rules and learner-test terminology.
+6. **Automated validation**: verify that every language contains the same question IDs, option IDs, correct-answer IDs, and image references as the source dataset.
+7. **Accessibility and rollout**: test text expansion, pronunciation and screen-reader behavior, mobile layouts, and release languages incrementally.
+
+The English dataset remains the canonical structural reference. Translations should preserve the meaning of the official road-safety content rather than translate generated distractors without review.
+
 ## Technology
 
 - React 19
