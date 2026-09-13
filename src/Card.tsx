@@ -114,6 +114,7 @@ const Card = ({
 									onClick={() => onSelectOption?.(option.id)}
 									type="button"
 								>
+									<span className="mr-2 font-semibold text-[#35bdf5]">{option.id}.</span>
 									{option.text}
 									{hasAnswered && option.is_correct && (
 										<span aria-label="Correct answer" className="ml-2 inline-flex size-5 items-center justify-center rounded-full bg-green-300 font-bold text-green-950" role="img">

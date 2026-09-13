@@ -90,6 +90,12 @@ const App = () => {
 		(total, currentQuestion) => total + (answers[currentQuestion.id] === currentQuestion.correct_answer_id ? 1 : 0),
 		0,
 	)
+	const scorePercentage = questions.length > 0 ? Math.round((score / questions.length) * 100) : 0
+	const resultMessage = scorePercentage < 50
+		? 'Try again to build your confidence and improve your score.'
+		: scorePercentage >= 90
+			? 'Congratulations! You are doing very well. Keep attempting tests to stay sharp.'
+			: 'Keep practicing. You are almost ready for the test.'
 
 	useEffect(() => {
 		localStorage.setItem(storageKey, JSON.stringify({
@@ -189,6 +195,8 @@ const App = () => {
 					<p className="mt-5 font-sans text-2xl text-[#c5ccda]">
 						Score: <span className="text-[#35bdf5]">{score} / {questions.length}</span>
 					</p>
+					<p className="mt-2 font-sans text-xl font-semibold text-[#35bdf5]">{scorePercentage}%</p>
+					<p className="mt-3 text-[#c5ccda]">{resultMessage}</p>
 					<p className="mt-2 text-[#c5ccda]">Time remaining: {formatTime(remainingSeconds)}</p>
 					<button
 						className="mt-8 rounded-lg border border-[#35bdf5] px-5 py-3 font-sans font-semibold text-[#35bdf5] transition-colors hover:bg-[#35bdf5] hover:text-[#101a2e]"

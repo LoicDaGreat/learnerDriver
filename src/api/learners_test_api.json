@@ -1002,7 +1002,7 @@
     },
     {
       "id": 35,
-      "question": "A person driving a vehicle on a public road may...",
+      "question": "A person driving a vehicle on a public road may not...",
       "options": [
         {
           "id": "A",
@@ -1026,8 +1026,7 @@
         }
       ],
       "correct_answer_id": "A",
-      "correct_answer_text": "Leave a vehicle unattended without applying its parking brake to prevent it from moving from the position in which it was left",
-      "note": "As marked in the source PDF; this wording appears to contradict standard K53 rules, which normally require the parking brake to be applied. Verify against an official source."
+      "correct_answer_text": "Leave a vehicle unattended without applying its parking brake to prevent it from moving from the position in which it was left"
     },
     {
       "id": 36,
