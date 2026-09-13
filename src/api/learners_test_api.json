@@ -1,0 +1,2751 @@
+{
+  "title": "Learners Driving Licence Test - Multiple Choice Questions",
+  "source": "Driver's License Test.pdf (correct answers extracted; distractor options generated)",
+  "note": "Only the correct answer was marked in the source PDF. The additional options below are generated plausible distractors for multiple-choice practice, not taken from the original document. Image files were extracted directly from the source PDF and are referenced via relative 'image_url' paths (folder 'question_images/') alongside this JSON file. These are local file references, not public internet URLs — host the 'question_images' folder alongside this JSON (e.g. on your own server or CDN) and adjust the base path if serving via an API.",
+  "total_questions": 94,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Where a goods vehicle is temporarily stationary on the roadway of a public road, the driver must",
+      "options": [
+        {
+          "id": "A",
+          "text": "Display one emergency warning sign in front and one at the back of the vehicle",
+          "is_correct": true
+        },
+        {
+          "id": "B",
+          "text": "Display two emergency warning signs at the back of the vehicle only",
+          "is_correct": false
+        },
+        {
+          "id": "C",
+          "text": "Switch on the hazard lights only, no signs required",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Park at least 45m away before displaying any sign",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "A",
+      "correct_answer_text": "Display one emergency warning sign in front and one at the back of the vehicle"
+    },
+    {
+      "id": 2,
+      "question": "On which side of the roadway may you drive if the roadway is wide enough without endangering other traffic?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A driver may never leave their lane under any circumstance",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "A driver may encroach or drive on the right hand side of the roadway if the car in front is driving slow",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "A driver may only pass on the right if travelling above 100km/h",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "A driver may use the right side only on a one-way road",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "A driver may encroach or drive on the right hand side of the roadway if the car in front is driving slow"
+    },
+    {
+      "id": 3,
+      "question": "Trailers of which the gross vehicle mass does not exceed 10000kg...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Do not require any reflective material",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Shall be fitted with yellow reflective material to the side and to the rear of the vehicle",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Shall be fitted with red reflective material to the front only",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Shall display a red flag instead of reflective material",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Shall be fitted with yellow reflective material to the side and to the rear of the vehicle"
+    },
+    {
+      "id": 4,
+      "question": "What is the function of a clutch?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is used to disconnect the engine from the transmission",
+          "is_correct": true
+        },
+        {
+          "id": "B",
+          "text": "It is used to increase engine power",
+          "is_correct": false
+        },
+        {
+          "id": "C",
+          "text": "It controls the vehicle's steering",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "It is used to apply the brakes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "A",
+      "correct_answer_text": "It is used to disconnect the engine from the transmission"
+    },
+    {
+      "id": 5,
+      "question": "What does this sign mean? (two upward arrows, one angled left)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "A lane is added to the left of a two-way roadway",
+          "is_correct": true
+        },
+        {
+          "id": "B",
+          "text": "A lane is closed on the right",
+          "is_correct": false
+        },
+        {
+          "id": "C",
+          "text": "Two-way traffic ahead",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Merge into one lane",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "A",
+      "correct_answer_text": "A lane is added to the left of a two-way roadway",
+      "image_url": "question_images/q05.png"
+    },
+    {
+      "id": 6,
+      "question": "The use of a temporary sign implies that for some reason ....",
+      "options": [
+        {
+          "id": "A",
+          "text": "The sign is decorative only",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Circumstances on the roadway are not normal",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "The permanent sign has been permanently removed",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "The road has been closed to all traffic",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Circumstances on the roadway are not normal"
+    },
+    {
+      "id": 7,
+      "question": "What does this road sign mean? (no overtaking by trucks)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "No trucks allowed on this road",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "There may not be any overtaking by goods vehicles",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Goods vehicles must stop ahead",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Goods vehicles have right of way",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "There may not be any overtaking by goods vehicles",
+      "image_url": "question_images/q07.png"
+    },
+    {
+      "id": 8,
+      "question": "Heavy motor vehicles must be equipped with an exhaust silencer which...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Must be maintained that the exhaust gas or smoke does not leak into the driving cab or passenger compartment of the vehicle",
+          "is_correct": true
+        },
+        {
+          "id": "B",
+          "text": "May be removed if the vehicle is over 5 years old",
+          "is_correct": false
+        },
+        {
+          "id": "C",
+          "text": "Only needs to be fitted when travelling on freeways",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Must make a minimum amount of noise for safety",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "A",
+      "correct_answer_text": "Must be maintained that the exhaust gas or smoke does not leak into the driving cab or passenger compartment of the vehicle"
+    },
+    {
+      "id": 9,
+      "question": "Head lamps, rear lamps and number plate lights must be switched on...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only during heavy rain",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Between sunset and sunrise",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Only on freeways at night",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "At all times, day and night",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Between sunset and sunrise"
+    },
+    {
+      "id": 10,
+      "question": "When driving a motor vehicle, what is the minimum safe following distance to maintain when following another vehicle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A distance determined by means of the two second rule",
+          "is_correct": true
+        },
+        {
+          "id": "B",
+          "text": "Exactly 10 metres at all speeds",
+          "is_correct": false
+        },
+        {
+          "id": "C",
+          "text": "One car length for every 50km/h",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "There is no minimum, as long as you can see ahead",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "A",
+      "correct_answer_text": "A distance determined by means of the two second rule"
+    },
+    {
+      "id": 11,
+      "question": "To increase or decrease the speed of the vehicle you need to use the...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Clutch",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Accelerator",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Steering wheel",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Gear lever only",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Accelerator"
+    },
+    {
+      "id": 12,
+      "question": "What does this sign mean? (blue circle, left turn, delivery vehicle icon)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "All vehicles must turn left ahead",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Turn left at the next road if he/she drives a delivery vehicle",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Delivery vehicles are prohibited from turning left",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Delivery vehicles must stop before turning",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Turn left at the next road if he/she drives a delivery vehicle",
+      "image_url": "question_images/q12.png"
+    },
+    {
+      "id": 13,
+      "question": "What should a driver consider when following another vehicle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only the speed limit of the road",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "The driver should follow at a safe distance and be able to stop the vehicle safely in an emergency situation or should the vehicle in front slow down or stop",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "How close they can follow to save fuel",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Whether the vehicle in front has working brake lights only",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "The driver should follow at a safe distance and be able to stop the vehicle safely in an emergency situation or should the vehicle in front slow down or stop"
+    },
+    {
+      "id": 14,
+      "question": "What type of heavy motor vehicle or combination of motor vehicles are restricted to a minimum speed of 80km/h?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Any bus carrying fewer than 10 passengers",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "An articulated motor vehicle of which the gross combination mass of truck-tractor exceeds 9 000kg",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Any vehicle towing a trailer under 750kg",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "A single heavy motor vehicle under 3 500kg",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "An articulated motor vehicle of which the gross combination mass of truck-tractor exceeds 9 000kg"
+    },
+    {
+      "id": 15,
+      "question": "This sign indicates what? (three arrows, right lane 80 speed limit)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "All lanes are limited to 80km/h",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "The maximum speed limit in the right-hand lane is 80km/h",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "The minimum speed limit in the right-hand lane is 80km/h",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "80km/h applies only to trucks in the right lane",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "The maximum speed limit in the right-hand lane is 80km/h",
+      "image_url": "question_images/q15.png"
+    },
+    {
+      "id": 16,
+      "question": "You may not",
+      "sub_items": [
+        "Run the engine of your vehicle unattended",
+        "Use your vehicle without a cap on the fuel tank",
+        "Spin the wheels of your vehicle when pulling off"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "Only (i) is not allowed",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Only (ii) and (iii) are not allowed",
+          "is_correct": false
+        },
+        {
+          "id": "C",
+          "text": "None of the above are allowed",
+          "is_correct": true
+        },
+        {
+          "id": "D",
+          "text": "All of the above are allowed",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "C",
+      "correct_answer_text": "None of the above are allowed"
+    },
+    {
+      "id": 17,
+      "question": "This sign shows the driver of the vehicle that... (AA sign, arrow right)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "There is an alternative route at the next intersection to the right",
+          "is_correct": true
+        },
+        {
+          "id": "B",
+          "text": "The AA office is to the right",
+          "is_correct": false
+        },
+        {
+          "id": "C",
+          "text": "There is roadside assistance available at the next stop",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Turn right for the freeway",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "A",
+      "correct_answer_text": "There is an alternative route at the next intersection to the right",
+      "image_url": "question_images/q17.png"
+    },
+    {
+      "id": 18,
+      "question": "In order to draw attention, the background of a temporary sign is usually...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Yellow",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "White",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Yellow"
+    },
+    {
+      "id": 19,
+      "question": "This road sign shows what? (blue circle, arrow curving down-left)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "Turn right ahead",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Keep in the left lane only",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "No left turn",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Two-way traffic merging",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Keep in the left lane only",
+      "image_url": "question_images/q19.png"
+    },
+    {
+      "id": 20,
+      "question": "This road sign is what? (N3 toll / R103 alternative)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "Two toll roads leading to the same destination",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "A toll road and an alternative for a toll road",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "A road under construction with a detour",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "A one-way road system",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "A toll road and an alternative for a toll road",
+      "image_url": "question_images/q20.png"
+    },
+    {
+      "id": 21,
+      "question": "A temporary sign....",
+      "options": [
+        {
+          "id": "A",
+          "text": "Has no legal significance",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Has the same legal significance as a permanent sign",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Only applies to heavy vehicles",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Only applies during the day",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Has the same legal significance as a permanent sign"
+    },
+    {
+      "id": 22,
+      "question": "This road sign means... (blue rectangle with diagonal line)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "50 meters",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "100 meters",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "200 meters",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "1 kilometer",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "100 meters",
+      "image_url": "question_images/q22.png"
+    },
+    {
+      "id": 23,
+      "question": "Where may you legally stop with your vehicle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3m from a railway crossing reserve",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "6m from a railway crossing reserve",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Directly on a railway crossing if empty",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "1m from a railway crossing reserve",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "6m from a railway crossing reserve"
+    },
+    {
+      "id": 24,
+      "question": "What does this road sign indicate? (traffic light with camera icon)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "The traffic light is temporarily out of order",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "There is a camera monitoring the intersection at the traffic light",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Photography is prohibited at this intersection",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "A speed camera is located 1km ahead",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "There is a camera monitoring the intersection at the traffic light",
+      "image_url": "question_images/q24.png"
+    },
+    {
+      "id": 25,
+      "question": "You only have a learners licence for a heavy motor vehicle....",
+      "sub_items": [
+        "Then there must be someone with you in the vehicle with the same driving licence",
+        "You are not allowed to drive on the freeway",
+        "No passengers are allowed with you in the vehicle"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "Only (i) is correct",
+          "is_correct": true
+        },
+        {
+          "id": "B",
+          "text": "Only (ii) is correct",
+          "is_correct": false
+        },
+        {
+          "id": "C",
+          "text": "Only (iii) is correct",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "All of (i), (ii) and (iii) are correct",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "A",
+      "correct_answer_text": "Only (i) is correct"
+    },
+    {
+      "id": 26,
+      "question": "Your vehicle's head lights must be switched on....",
+      "sub_items": [
+        "At any time of the day when you cannot see a person and vehicle 150m in front of you",
+        "From sunset to sunrise",
+        "When it rains and you cannot see vehicles 100m in front of you"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "All of the above are correct",
+          "is_correct": true
+        },
+        {
+          "id": "B",
+          "text": "Only (ii) is correct",
+          "is_correct": false
+        },
+        {
+          "id": "C",
+          "text": "Only (i) and (ii) are correct",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "None of the above are correct",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "A",
+      "correct_answer_text": "All of the above are correct"
+    },
+    {
+      "id": 27,
+      "question": "This road sign means... (teal/green sign, arrow)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "Lanes are reducing from the right",
+          "is_correct": true
+        },
+        {
+          "id": "B",
+          "text": "Lanes are increasing from the right",
+          "is_correct": false
+        },
+        {
+          "id": "C",
+          "text": "The road is closed ahead",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Merge from the left",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "A",
+      "correct_answer_text": "Lanes are reducing from the right",
+      "image_url": "question_images/q27.png"
+    },
+    {
+      "id": 28,
+      "question": "When is overtaking prohibited?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only on freeways",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "When approaching any place where passing could cause a hazard to traffic approaching from the opposite direction",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Only during the day",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Only when travelling above 100km/h",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "When approaching any place where passing could cause a hazard to traffic approaching from the opposite direction"
+    },
+    {
+      "id": 29,
+      "question": "When moving off from a stationary position at the side of the road, what is the responsibility of the driver?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To sound the hooter before moving off",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "The driver must ensure that it is safe and that he/she will not interfere with traffic approaching from any direction",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "To wait for a traffic officer's signal",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "To switch on hazard lights before moving off",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "The driver must ensure that it is safe and that he/she will not interfere with traffic approaching from any direction"
+    },
+    {
+      "id": 30,
+      "question": "Which statement is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A heavy motor vehicle may use a spot lamp at any time",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "A heavy motor vehicle may not be used on a public road if it is fitted with a spot lamp which can emit a beam of light that can be deflected in any direction",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Spot lamps are compulsory on all heavy motor vehicles",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Spot lamps may only be used during the day",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "A heavy motor vehicle may not be used on a public road if it is fitted with a spot lamp which can emit a beam of light that can be deflected in any direction"
+    },
+    {
+      "id": 31,
+      "question": "When a vehicle is traveling in the right hand lane the driver must... (sign: min 60km/h)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "Drive slower than 60km/h",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Drive faster than or drive at 60km/h",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Stop and check for oncoming traffic",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Only use that lane for overtaking",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Drive faster than or drive at 60km/h",
+      "image_url": "question_images/q31.png"
+    },
+    {
+      "id": 32,
+      "question": "What appropriate reaction to this sign is to.... (chevron arrows pointing both ways)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "Speed up to clear the area quickly",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Ignore it if no other vehicles are visible",
+          "is_correct": false
+        },
+        {
+          "id": "C",
+          "text": "Slow down and prepare to stop if necessary",
+          "is_correct": true
+        },
+        {
+          "id": "D",
+          "text": "Sound the hooter continuously",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "C",
+      "correct_answer_text": "Slow down and prepare to stop if necessary",
+      "image_url": "question_images/q32.png"
+    },
+    {
+      "id": 33,
+      "question": "How far may you park from the left edge of the roadway outside an urban area?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Not more than 1m from the edge of the roadway",
+          "is_correct": true
+        },
+        {
+          "id": "B",
+          "text": "Not more than 3m from the edge of the roadway",
+          "is_correct": false
+        },
+        {
+          "id": "C",
+          "text": "Anywhere on the roadway is acceptable",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "At least 5m from the edge of the roadway",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "A",
+      "correct_answer_text": "Not more than 1m from the edge of the roadway"
+    },
+    {
+      "id": 34,
+      "question": "The lights of your vehicle parked on a public road between sunset and sunrise need not be kept lighted when the vehicle is parked...",
+      "sub_items": [
+        "10m from a lighted street lamp",
+        "Next to the roadway of the road",
+        "In a demarcated parking area"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "Only (i) is correct",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Only (i) and (ii) are correct",
+          "is_correct": false
+        },
+        {
+          "id": "C",
+          "text": "All of the above are correct",
+          "is_correct": true
+        },
+        {
+          "id": "D",
+          "text": "None of the above are correct",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "C",
+      "correct_answer_text": "All of the above are correct"
+    },
+    {
+      "id": 35,
+      "question": "A person driving a vehicle on a public road may...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Leave a vehicle unattended without applying its parking brake to prevent it from moving from the position in which it was left",
+          "is_correct": true
+        },
+        {
+          "id": "B",
+          "text": "Never leave a vehicle unattended under any circumstances",
+          "is_correct": false
+        },
+        {
+          "id": "C",
+          "text": "Leave a vehicle unattended with the engine running",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Leave a vehicle unattended only in a designated parking bay",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "A",
+      "correct_answer_text": "Leave a vehicle unattended without applying its parking brake to prevent it from moving from the position in which it was left",
+      "note": "As marked in the source PDF; this wording appears to contradict standard K53 rules, which normally require the parking brake to be applied. Verify against an official source."
+    },
+    {
+      "id": 36,
+      "question": "This sign indicates that.... (traffic light, arrow left)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "You may never turn left at a red light",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "You must stop behind the line and proceed left if it is safe to do so even if the red light is on",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "The traffic light is malfunctioning",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Only buses may turn left here",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "You must stop behind the line and proceed left if it is safe to do so even if the red light is on",
+      "image_url": "question_images/q36.png"
+    },
+    {
+      "id": 37,
+      "question": "This sign indicates that there.... (yellow sign, 1km, arrow)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "Is a rest stop 1km ahead",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Are obstructions to the road 1km ahead that affect the traffic movement",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Is a speed camera 1km ahead",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Is a fuel station 1km ahead",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Are obstructions to the road 1km ahead that affect the traffic movement",
+      "image_url": "question_images/q37.png"
+    },
+    {
+      "id": 38,
+      "question": "What is the requirement regarding noise caused by a heavy motor vehicle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Heavy motor vehicles are exempt from noise regulations",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "No person shall operate a vehicle on a public road in such a manner that it causes excessive noise",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Noise limits only apply between 10pm and 6am",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Noise limits only apply in urban areas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "No person shall operate a vehicle on a public road in such a manner that it causes excessive noise"
+    },
+    {
+      "id": 39,
+      "question": "What is the duty of a driver when re-filling the fuel or inflammable fuel?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The driver may not cause or allow the engine to run while petrol or other inflammable fuel is being transferred to the fuel tank",
+          "is_correct": true
+        },
+        {
+          "id": "B",
+          "text": "The driver must keep the engine running to save time",
+          "is_correct": false
+        },
+        {
+          "id": "C",
+          "text": "The driver must switch on hazard lights while refuelling",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "The driver may smoke while refuelling if outdoors",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "A",
+      "correct_answer_text": "The driver may not cause or allow the engine to run while petrol or other inflammable fuel is being transferred to the fuel tank"
+    },
+    {
+      "id": 40,
+      "question": "What kind of road sign is this? (green T sign)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "A warning sign",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "An information sign",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "A regulatory sign",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "A prohibition sign",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "An information sign",
+      "image_url": "question_images/q40.png"
+    },
+    {
+      "id": 41,
+      "question": "Which of the following statements is correct? A silencer....",
+      "options": [
+        {
+          "id": "A",
+          "text": "Is optional on all vehicles",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Must be fitted to a vehicle to restrict engine noise to acceptable levels",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Is only required on heavy motor vehicles",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "May be removed for better engine performance",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Must be fitted to a vehicle to restrict engine noise to acceptable levels"
+    },
+    {
+      "id": 42,
+      "question": "When is it permissible to park in a \"no stopping\" area?",
+      "options": [
+        {
+          "id": "A",
+          "text": "During an emergency only",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "It is not permissible to park where stopping is not permitted",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Between 10pm and 6am",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "If hazard lights are switched on",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "It is not permissible to park where stopping is not permitted"
+    },
+    {
+      "id": 43,
+      "question": "When you have a driving licence and you are driving a vehicle, where should the licence document be?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At home in a safe place",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "With you in the vehicle",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "At the licensing department",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "It is not required to carry it",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "With you in the vehicle"
+    },
+    {
+      "id": 44,
+      "question": "Which one of the following statements is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pedal cycles are permitted on all freeways",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Pedal cycles are not permitted on the freeway",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Pedal cycles must use the right-hand lane on freeways",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Pedal cycles require a special freeway permit",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Pedal cycles are not permitted on the freeway"
+    },
+    {
+      "id": 45,
+      "question": "This sign indicates to the driver of a vehicle that... (green H sign)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "There is a hospital ahead",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "The roadway to the left is not a through road",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "The roadway to the right is closed",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "There is a hotel nearby",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "The roadway to the left is not a through road",
+      "image_url": "question_images/q45.png"
+    },
+    {
+      "id": 46,
+      "question": "The appropriate reaction to this sign would be to.... (red arrow sign, lane merge)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "Increase speed to merge quickly",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Be on the lookout for vehicles doing lane changes, especially from the left",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Ignore vehicles merging from the left",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Stop immediately regardless of traffic",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Be on the lookout for vehicles doing lane changes, especially from the left",
+      "image_url": "question_images/q46.png"
+    },
+    {
+      "id": 47,
+      "question": "This road marking.... (dotted road line)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "Indicates a pedestrian crossing",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Divides the road into two lanes",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Indicates a no-overtaking zone",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Marks the edge of the roadway",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Divides the road into two lanes",
+      "image_url": "question_images/q47.png"
+    },
+    {
+      "id": 48,
+      "question": "Trailers of which the gross vehicle mass does not exceed 10000kg....",
+      "options": [
+        {
+          "id": "A",
+          "text": "Do not require reflective material",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Shall be fitted with yellow reflective material to the side and the rear of the vehicle",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Shall be fitted with white reflective material only at the front",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Shall display a warning triangle instead",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Shall be fitted with yellow reflective material to the side and the rear of the vehicle"
+    },
+    {
+      "id": 49,
+      "question": "When flags have to be used to indicate projections....",
+      "options": [
+        {
+          "id": "A",
+          "text": "They must be white, and at least 200mm x 200mm",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "They must be red, and at least 300mm x 300mm",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "They must be yellow, any size",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "They must be reflective and blue",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "They must be red, and at least 300mm x 300mm"
+    },
+    {
+      "id": 50,
+      "question": "This road marking indicates to the driver that... (road marking with arrow)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "They may proceed in any direction",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "They may proceed only in the direction indicated by the arrow",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "The lane is closed ahead",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "They must yield to oncoming traffic",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "They may proceed only in the direction indicated by the arrow",
+      "image_url": "question_images/q50.png"
+    },
+    {
+      "id": 51,
+      "question": "If traveling in a goods vehicle towing a trailer, how many emergency warning signs (triangles) must you carry?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only one",
+          "is_correct": true
+        },
+        {
+          "id": "B",
+          "text": "Two",
+          "is_correct": false
+        },
+        {
+          "id": "C",
+          "text": "Three",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "None are required for trailers",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "A",
+      "correct_answer_text": "Only one"
+    },
+    {
+      "id": 52,
+      "question": "What is the duty of a driver regarding pedestrians crossing a roadway within a pedestrian crossing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The driver has right of way over pedestrians",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "A driver must yield right of way to a pedestrian crossing a roadway within a pedestrian crossing",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "The driver must hoot to warn the pedestrian",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "The driver may proceed if travelling under 20km/h",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "A driver must yield right of way to a pedestrian crossing a roadway within a pedestrian crossing"
+    },
+    {
+      "id": 53,
+      "question": "What type of brakes must be fitted on a heavy motor vehicle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Service brakes and parking brakes only",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Service brakes, parking brakes and emergency brakes",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Emergency brakes only",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Parking brakes only",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Service brakes, parking brakes and emergency brakes"
+    },
+    {
+      "id": 54,
+      "question": "You may....",
+      "options": [
+        {
+          "id": "A",
+          "text": "Put your arm out of the window at any time",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Put your arm out of the window only to give legal hand signals",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Never put any part of your body out of the window",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Put your arm out of the window to signal other drivers to overtake",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Put your arm out of the window only to give legal hand signals"
+    },
+    {
+      "id": 55,
+      "question": "Before this road marking one would usually find the following sign... (zebra crossing markings)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "A speed hump ahead sign",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "A marked pedestrian crossing ahead",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "A school zone sign",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "A railway crossing ahead sign",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "A marked pedestrian crossing ahead",
+      "image_url": "question_images/q55.png"
+    },
+    {
+      "id": 56,
+      "question": "The driver of a vehicle shall not cross a public road unless..",
+      "options": [
+        {
+          "id": "A",
+          "text": "There are no other vehicles in sight",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "The road is clear of moving traffic for a sufficient distance to allow him/her to cross without obstructing or endangering any traffic",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "A traffic officer signals them to do so",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "It is during daylight hours",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "The road is clear of moving traffic for a sufficient distance to allow him/her to cross without obstructing or endangering any traffic"
+    },
+    {
+      "id": 57,
+      "question": "This sign advises drivers of heavy motor vehicles.... (steep decline, low gear icon)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "To engage a higher gear to increase speed downhill",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "To engage a lower gear to keep to a lower constant speed and to prevent brake overheating",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "To switch off the engine while descending",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "To use the parking brake continuously while descending",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "To engage a lower gear to keep to a lower constant speed and to prevent brake overheating",
+      "image_url": "question_images/q57.png"
+    },
+    {
+      "id": 58,
+      "question": "What should the driver of a motor vehicle do when following another vehicle at night?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Flash the headlights repeatedly",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Dip the main beam",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Switch off all lights",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Use fog lights only",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Dip the main beam"
+    },
+    {
+      "id": 59,
+      "question": "The flag signal that is being shown, is instructing the driver to.... (traffic officer figure)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "Stop",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Proceed",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Slow down",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Reverse",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Proceed",
+      "image_url": "question_images/q59.png"
+    },
+    {
+      "id": 60,
+      "question": "Which statement is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A driver may drive after one alcoholic drink if under the legal limit",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "A driver is not allowed to drive a motor vehicle whilst under the influence of alcohol",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Alcohol limits only apply to heavy motor vehicle drivers",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "There is no legal limit for alcohol while driving",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "A driver is not allowed to drive a motor vehicle whilst under the influence of alcohol"
+    },
+    {
+      "id": 61,
+      "question": "What must you use to shift from one gear to another gear?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The accelerator and brake",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Gear lever and the clutch",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "The steering wheel and clutch",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "The handbrake and gear lever",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Gear lever and the clutch"
+    },
+    {
+      "id": 62,
+      "question": "This road marking which is next to the black arrow tells you that you... (dashed road marking)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "May park there at any time",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "You may not stop there during selected periods indicated by another appropriate road sign",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Must stop there at all times",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "May only stop there on weekends",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "You may not stop there during selected periods indicated by another appropriate road sign",
+      "image_url": "question_images/q62.png"
+    },
+    {
+      "id": 63,
+      "question": "A safe following distance is so that when the vehicle in front of you suddenly stops you can...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Swerve safely into another lane",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Stop without swerving",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Sound your hooter and continue",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Overtake immediately",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Stop without swerving"
+    },
+    {
+      "id": 64,
+      "question": "Where do you find this sign? (freeway exit lane sign)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "On urban roads indicating parking bays",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "On a freeway, indicating dedicated exit lanes",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "On rural roads indicating farm entrances",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "On roads under construction",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "On a freeway, indicating dedicated exit lanes",
+      "image_url": "question_images/q64.png"
+    },
+    {
+      "id": 65,
+      "question": "When this sign is illuminated, it shows you that... (red X sign)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "The lane is open to all traffic",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "It is a traffic lane that vehicles may not enter",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "The lane is reserved for buses only",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "The lane is closed for maintenance only on weekends",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "It is a traffic lane that vehicles may not enter",
+      "image_url": "question_images/q65.png"
+    },
+    {
+      "id": 66,
+      "question": "This road sign warns the road user that... (reversible lane marking)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "The right lane is permanently closed",
+          "is_correct": true
+        },
+        {
+          "id": "B",
+          "text": "The right lane may be used by vehicles in opposite directions at different times",
+          "is_correct": false
+        },
+        {
+          "id": "C",
+          "text": "The right lane is for buses only",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "The right lane is for emergency vehicles only",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "A",
+      "correct_answer_text": "The right lane is permanently closed",
+      "image_url": "question_images/q66.png"
+    },
+    {
+      "id": 67,
+      "question": "This road marking warns the driver that... (X pattern road marking)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "There is a pedestrian crossing ahead",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "There is a speed hump in the road",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "There is a railway crossing ahead",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "There is a stop sign ahead",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "There is a speed hump in the road",
+      "image_url": "question_images/q67.png"
+    },
+    {
+      "id": 68,
+      "question": "Which one of the following statements is true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A heavy motor vehicle does not require a fuel cap",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "A heavy motor vehicle may not be used on a public road if it is not fitted with a fuel cap",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "A fuel cap is only required for petrol vehicles",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "A fuel cap is optional on all vehicles",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "A heavy motor vehicle may not be used on a public road if it is not fitted with a fuel cap"
+    },
+    {
+      "id": 69,
+      "question": "This sign informs us that... (P12 parking sign)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "Parking is limited to 12 minutes",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Parking space may be used after 12 noon only",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Parking is prohibited after 12 noon",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Parking is free until 12 noon",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Parking space may be used after 12 noon only",
+      "image_url": "question_images/q69.png"
+    },
+    {
+      "id": 70,
+      "question": "What is the maximum period of time that a vehicle may be parked on a road outside an urban area?",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 hours",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "24 hours",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "48 hours",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "There is no time limit",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "24 hours"
+    },
+    {
+      "id": 71,
+      "question": "When are you allowed to drive to the left of the yellow line?",
+      "sub_items": [
+        "Any time when you want to allow another vehicle to pass you",
+        "In daytime when you want to allow another vehicle to pass you",
+        "When on a freeway with 2 lanes in both directions, you going slower than 120km/h",
+        "When you have a flat tyre and you want to park there to change the tyre"
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "Only (i) and (iii) are correct",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Only (ii) and (iv) are correct",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "All of the above are correct",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "None of the above are correct",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Only (ii) and (iv) are correct"
+    },
+    {
+      "id": 72,
+      "question": "What is the requirement of a driver when entering a public road?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The driver may enter at any speed if visibility is good",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "The driver shall not enter a public road unless it can be done safely for him/herself and other traffic",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "The driver must sound the hooter before entering",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "The driver has right of way over all other traffic",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "The driver shall not enter a public road unless it can be done safely for him/herself and other traffic"
+    },
+    {
+      "id": 73,
+      "question": "The following vehicles are not allowed on a freeway?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Motorcycles over 50cc",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "A tractor, except when it is used in connection with construction or maintenance of the freeway",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Heavy motor vehicles over 3 500kg",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Vehicles towing a trailer",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "A tractor, except when it is used in connection with construction or maintenance of the freeway"
+    },
+    {
+      "id": 74,
+      "question": "When may you stop in front of this sign? (checkered sign)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only in an emergency",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Never",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "During loading or unloading",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "If no traffic is approaching",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Never"
+    },
+    {
+      "id": 75,
+      "question": "When traveling on this secondary road, you.... (cross intersection warning sign)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "Have right of way over the main road",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Do not have right of way and you have to stop",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "May proceed without stopping if the road is clear",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Must sound your hooter before proceeding",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Do not have right of way and you have to stop",
+      "image_url": "question_images/q75.png"
+    },
+    {
+      "id": 76,
+      "question": "This road marking warns you that.... (railway crossing marking)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "There is a pedestrian crossing ahead",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "A railway line will be crossing the road at the same level",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "There is a speed hump ahead",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "The road narrows ahead",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "A railway line will be crossing the road at the same level",
+      "image_url": "question_images/q76.png"
+    },
+    {
+      "id": 77,
+      "question": "When may you stop in front of this sign? (checkered arrow sign)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "During peak traffic hours only",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Never",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "If turning left immediately",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "In an emergency only",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Never",
+      "image_url": "question_images/q77.png"
+    },
+    {
+      "id": 78,
+      "question": "This road marking tells you that.... (green road marking with black arrow)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "You may park next to the road indicated by the black arrow at any time",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "You may never park next to the road indicated by the black arrow",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "You may park there only on weekends",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "You may park there for a maximum of one hour",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "You may never park next to the road indicated by the black arrow",
+      "image_url": "question_images/q78.png"
+    },
+    {
+      "id": 79,
+      "question": "On which side of the road may you drive if the roadway is wide enough without endangering other traffic?",
+      "options": [
+        {
+          "id": "A",
+          "text": "You may never leave your lane",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "A driver may encroach or drive on the right-hand side of a roadway if the car in front is driving slowly",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "You may only use the right side on freeways",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "You may drive on the right side at any speed",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "A driver may encroach or drive on the right-hand side of a roadway if the car in front is driving slowly"
+    },
+    {
+      "id": 80,
+      "question": "This signal indicates that.... (green arrow pointing down)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "You may not drive there",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "You may drive there",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "The lane is reserved for buses",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "You must stop before entering the lane",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "You may drive there",
+      "image_url": "question_images/q80.png"
+    },
+    {
+      "id": 81,
+      "question": "This sign shows to riders of motorcycles that.... (blue R sign, motorcycle icon)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "Motorcycles are prohibited from that part of the road",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "They must use that part of the road",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Motorcycles may choose to use that part of the road or not",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "That part of the road is for motorcycle repairs only",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "They must use that part of the road",
+      "image_url": "question_images/q81.png"
+    },
+    {
+      "id": 82,
+      "question": "When approaching this sign, the driver must.... (stop ahead warning, 200m)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "Stop immediately at the sign",
+          "is_correct": true
+        },
+        {
+          "id": "B",
+          "text": "Know that he is warned of a stop ahead",
+          "is_correct": false
+        },
+        {
+          "id": "C",
+          "text": "Speed up to reach the stop quickly",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Ignore it if no traffic is visible",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "A",
+      "correct_answer_text": "Stop immediately at the sign",
+      "image_url": "question_images/q82.png"
+    },
+    {
+      "id": 83,
+      "question": "This sign shows you that... (green T sign, road ending)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "The road narrows ahead",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "The road ends ahead",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "There is a T-junction with traffic lights ahead",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "The speed limit changes ahead",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "The road ends ahead",
+      "image_url": "question_images/q83.png"
+    },
+    {
+      "id": 84,
+      "question": "This sign warns a driver that... (side road junction sign)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "The road ahead is closed",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "A side road junction from the right is ahead",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "A side road junction from the left is ahead",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "There is a roundabout ahead",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "A side road junction from the right is ahead",
+      "image_url": "question_images/q84.png"
+    },
+    {
+      "id": 85,
+      "question": "When is it permissible to allow a portion of your body to protrude beyond a vehicle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At any time when the window is open",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Only for the driver to give hand signals",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Only when the vehicle is stationary",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Never, under any circumstances",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Only for the driver to give hand signals"
+    },
+    {
+      "id": 86,
+      "question": "This road sign marking indicates to a driver that.... (green bus lane marking)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "This lane is for pedestrians only",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "This lane is for the executive use of busses",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "This lane is closed to all traffic",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "This lane is for emergency vehicles only",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "This lane is for the executive use of busses",
+      "image_url": "question_images/q86.png"
+    },
+    {
+      "id": 87,
+      "question": "What is the purpose of an accelerator?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is used to disengage the gears",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "It is used to increase or decrease the speed of the vehicle",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "It is used to steer the vehicle",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "It is used to apply the parking brake",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "It is used to increase or decrease the speed of the vehicle"
+    },
+    {
+      "id": 88,
+      "question": "Whilst the vehicle is in motion a driver may...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hold a cell phone with one hand while driving",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Not hold a cell phone with any other part of the body",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Use a cell phone if travelling under 60km/h",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Use a cell phone if it is an emergency call",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Not hold a cell phone with any other part of the body"
+    },
+    {
+      "id": 89,
+      "question": "This road marking indicates to drivers to... (green marking with dashes)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "Ignore all other road users at this point",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Yield to all users of the road, possibly trains too",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Proceed without stopping",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Only yield to pedestrians",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Yield to all users of the road, possibly trains too",
+      "image_url": "question_images/q89.png"
+    },
+    {
+      "id": 90,
+      "question": "Which is the correct answer considering this sign? (pedestrian traffic light, red/green man)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "Pedestrians may walk regardless of the light colour",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "When the green man is glowing pedestrians may walk across and when the red light is glowing pedestrians may not walk across",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "The green man means vehicles may proceed",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "The red man means pedestrians must run across",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "When the green man is glowing pedestrians may walk across and when the red light is glowing pedestrians may not walk across",
+      "image_url": "question_images/q90.png"
+    },
+    {
+      "id": 91,
+      "question": "This sign shows you that... (checkered sign with left arrow)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "You must turn left for a rest stop",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "You have to turn left there if your brakes failed and you need to stop",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "You must turn left to exit the freeway",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Left turns are prohibited at this point",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "You have to turn left there if your brakes failed and you need to stop",
+      "image_url": "question_images/q91.png"
+    },
+    {
+      "id": 92,
+      "question": "You are caught in slow moving heavy traffic in the right lane of a busy urban road. The car in front of you would like to turn right into a driveway. It has stopped and is waiting as oncoming traffic is heavy. What should you do?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hoot continuously until the car moves",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "Wait behind the car until you get an opportunity to pass on the left side or to proceed",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Overtake on the right immediately",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Force the car to turn by driving very close behind it",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "Wait behind the car until you get an opportunity to pass on the left side or to proceed"
+    },
+    {
+      "id": 93,
+      "question": "When the motor vehicle is stationary, what must the driver do to ensure that the motor vehicle does not move?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Leave the vehicle in gear only",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "The parking brake must be securely applied",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "Turn the wheels away from the curb only",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "Switch off the engine only, no brake needed",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "The parking brake must be securely applied"
+    },
+    {
+      "id": 94,
+      "question": "This sign indicates... (N12 freeway sign)",
+      "has_image": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "A tourist attraction ahead",
+          "is_correct": false
+        },
+        {
+          "id": "B",
+          "text": "The direction to a freeway",
+          "is_correct": true
+        },
+        {
+          "id": "C",
+          "text": "A toll gate ahead",
+          "is_correct": false
+        },
+        {
+          "id": "D",
+          "text": "A speed limit change ahead",
+          "is_correct": false
+        }
+      ],
+      "correct_answer_id": "B",
+      "correct_answer_text": "The direction to a freeway",
+      "image_url": "question_images/q94.png"
+    }
+  ]
+}
