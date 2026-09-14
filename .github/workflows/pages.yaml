@@ -1,35 +1,59 @@
-steps:
-  - name: Checkout
-    uses: actions/checkout@v4
+name: Pages - Debug Build
+on:
+  workflow_dispatch:
 
-  - name: Setup Node.js
-    uses: actions/setup-node@v4
-    with:
-      node-version: '18'
+permissions:
+  pages: write
 
-  - name: Install dependencies
-    run: npm ci
+jobs:
+  debug-build:
+    runs-on: ubuntu-latest
 
-  - name: Build (set GH_PAGES to ensure correct base)
-    env:
-      GH_PAGES: true
-    run: npm run build
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-  - name: SPA fallback: copy index to 404
-    run: sh scripts/postbuild.sh || true
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
 
-  - name: Debug: list dist (optional)
-    run: |
-      echo "=== dist listing ==="
-      ls -la dist || true
-      echo ""
-      echo "=== Recursive listing ==="
-      ls -R dist || true
+      - name: Install dependencies
+        run: npm ci
 
-  - name: Upload pages artifact
-    uses: actions/upload-pages-artifact@v3
-    with:
-      path: ./dist
+      - name: "Build (set GH_PAGES to ensure correct base)"
+        env:
+          GH_PAGES: true
+        run: npm run build
 
-  - name: Deploy to GitHub Pages
-    uses: actions/deploy-pages@v5
+      - name: "SPA fallback: copy index to 404"
+        run: sh scripts/postbuild.sh || true
+
+      - name: "Debug: list dist"
+        run: |
+          echo "=== dist top-level listing ==="
+          ls -la dist || true
+          echo ""
+          echo "=== dist recursive listing ==="
+          ls -R dist || true
+
+      - name: "Debug: show index.html head"
+        run: |
+          echo "=== index.html (first 200 lines) ==="
+          head -n 200 dist/index.html || true
+
+      - name: "Debug: show 404.html head"
+        run: |
+          echo "=== 404.html (first 200 lines) ==="
+          head -n 200 dist/404.html || true
+
+      - name: "Debug: show assets top-level"
+        run: |
+          echo "=== dist/assets listing ==="
+          ls -la dist/assets || true
+
+      - name: Upload pages artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-pages-dist
+          path: ./dist
